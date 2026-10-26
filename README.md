@@ -109,6 +109,8 @@ Notes:
   had been deleted or made private at collection time).
 - Some validation-phase participants did not take part in the final Docker evaluation, so their reports are
   also archived here for completeness.
+- scripts/ contains the helper scripts used to download the large Docker archive and to extract participant code
+  from the OCI image layers.
 
 ---
 
