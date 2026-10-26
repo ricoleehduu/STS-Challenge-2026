@@ -97,6 +97,7 @@ STS-Challenge-2026/
 │   ├── task2/
 │   ├── task3/
 │   └── STSR2026_JLShen_report.pdf # Report covering Tasks 1-3
+├── scripts/                       # Helper scripts used to collect/extract the code archives
 └── DockerFromParticipants/
     └── baiduNetdisk.txt           # Download link for the Docker image archive
 ```
